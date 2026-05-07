@@ -1,0 +1,85 @@
+======================================
+ARENA RPG: GELOMBANG MONSTER
+=======================================
+
+AWAS! Sekelompok monster menghadang Anda!
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 50)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+1
+Masukkan kekuatan serangan Anda (10-100): 
+20
+
+>>> HASIL SERANGAN ANDA <<<
+Slime Asam terkena serangan! Sisa HP : 30
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam blub...blubb..blubb
+Slime Asam melompat dan menyiram cairan asam! Player -15 HP 
+Naga Hitam ROAAAAAAARRRRRRRRR 
+Naga Hitam menyemburkan nafas api dari udara! Player -50 HP
+Zombie merangkak GRAPPHHHHH...........GRAPPHHH
+Zombie merangkak melompat dan menggigit mangsa! Player -20 HP 
+--------------------------------------------------
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 30)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+2
+Masukkan kekuatan serangan Anda (10-100): 
+50
+
+>>> HASIL SERANGAN ANDA <<<
+Naga Hitam terkena serangan! Sisa HP : 450
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam blub...blubb..blubb
+Slime Asam melompat dan menyiram cairan asam! Player -15 HP 
+Naga Hitam ROAAAAAAARRRRRRRRR 
+Naga Hitam menyemburkan nafas api dari udara! Player -50 HP
+Zombie merangkak GRAPPHHHHH...........GRAPPHHH
+Zombie merangkak melompat dan menggigit mangsa! Player -20 HP 
+--------------------------------------------------
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 30)
+2.Naga Hitam (HP : 450)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+3
+Masukkan kekuatan serangan Anda (10-100): 
+60
+
+>>> HASIL SERANGAN ANDA <<<
+Zombie merangkak terkena serangan! Sisa HP : 90
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam blub...blubb..blubb
+Slime Asam melompat dan menyiram cairan asam! Player -15 HP 
+Naga Hitam ROAAAAAAARRRRRRRRR 
+Naga Hitam menyemburkan nafas api dari udara! Player -50 HP
+Zombie merangkak GRAPPHHHHH...........GRAPPHHH
+Zombie merangkak melompat dan menggigit mangsa! Player -20 HP 
+--------------------------------------------------
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 30)
+2.Naga Hitam (HP : 450)
+3.Zombie merangkak (HP : 90)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+4
+Anda lari terbirit - birit dari arena....
+Permainan Berakhir.
